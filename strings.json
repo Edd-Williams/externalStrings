@@ -1,0 +1,14 @@
+{
+	"keys": {
+		"title": "tinyForests.title",
+		"description": "tinyForests.description"
+	},
+	"strings": {
+		"en": {
+			"tinyForests": {
+				"title": "The forests are changing!",
+				"description": "This little tool proves that we can host our text elsewhere"
+			}
+		}
+	}
+}
